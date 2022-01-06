@@ -1,0 +1,13 @@
+copilot
+embedding
+fasttext
+huawei
+intent classification
+intent detection
+nlp
+nlu
+openai
+pecos
+product classification
+query classification
+text classification
